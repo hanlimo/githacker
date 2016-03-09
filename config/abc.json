@@ -5,4 +5,7 @@
 	{
 	"module" : "enviroment"
 	},
+	{
+	"module" : "git_trojan"
+	}
 ]
